@@ -5,4 +5,5 @@ package com.example.xslezakm1.githubtest;
  */
 
 public class TestAddFile {
+    private static final String TAG = "MyTag";
 }
